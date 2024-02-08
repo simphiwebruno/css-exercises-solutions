@@ -1,0 +1,20 @@
+#num1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num2 {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.num    {
+    background: lightpink;
+    font-family: verdana, Dejavu Sans, sans-serif;
+
+}
+
+.unique {
+    font-size: 24px;
+}
